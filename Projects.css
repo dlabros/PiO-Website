@@ -1,3 +1,4 @@
+
 #head	{
 			margin-left:20px;
 			clear:both;
@@ -23,6 +24,12 @@ div h3	{
 			font-family:Verdana,Courier,Helvetica,Garamond,sans-serif;
 			text-align:center;
 		}
+div p	{
+			font-family:Verdana,Courier,Helvetica,Garamond,sans-serif;
+			font-size:1.5em;
+			color:black;
+			text-align:center;
+		}
 #left	{	
 			width:40%;
 			height:800px;
@@ -32,7 +39,7 @@ div h3	{
 			float:left;
 			display:inline-block;
 		}
-#right{
+#right	{
 			width:40%;
 			height:800px;
 			background-color:#E6FF99;
@@ -40,16 +47,11 @@ div h3	{
 			margin:20px 50px 20px 20px;
 			float:right;
 			display:inline-block;
-		 }
- div p	 {
-			font-family:Verdana,Courier,Helvetica,Garamond,sans-serif;
-			font-size:1.5em;
-			color:black;
-			text-align:center;
-		 }
+			font-size:0.65em;
+		}
 #footer	{
 			width:93%;
-			height:25px;
+			height:45px;
 			background-color:#2B2B2B;
 			font-family:Verdana,Courier,Helvetica,Garamond,sans-serif;
 			color:#FFFFFF;
@@ -64,9 +66,6 @@ a		{
 			font-size:1.5em;
 			font-family:Verdana,Courier,Helvetica,Garamond,sans-serif;
 		}
-a:visited{
-			color:white;
-		 }
 span	{
 			color:red;
 		}
